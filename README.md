@@ -14,7 +14,4 @@ THEN they fall in sequential order
 WHEN I view the title element 
 THEN I find a concise, descriptive titl
 
-Screenshot 2022-06-17 171744.png
-
-Below is an example of a change added to the existing code to increase accesssiblity:
-!(C:\Users\Zanes\UW Coding Boot Camp\UW-Challenege-1-Refractoring\Screenshot 2022-06-17 171744.jpg)
+![Screenshot](C:\Users\Zanes\UW Coding Boot Camp\UW-Challenege-1-Refractoring\Screenshot 2022-06-17 171744.jpg)
