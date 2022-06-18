@@ -17,4 +17,4 @@ THEN I find a concise, descriptive titl
 
 
 Below is an example of a change added to the existing code to increase accesssiblity:
-![link to screenshot] "C:\Users\Zanes\UW Coding Boot Camp\UW-Challenege-1-Refractoring\assets\images\Screenshot 2022-06-17 171744.png"
+!"C:\Users\Zanes\UW Coding Boot Camp\UW-Challenege-1-Refractoring\assets\images\Screenshot 2022-06-17 171744.png"
