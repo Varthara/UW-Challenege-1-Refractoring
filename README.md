@@ -12,6 +12,4 @@ THEN I find accessible alt attributes
 WHEN I view the heading attributes 
 THEN they fall in sequential order 
 WHEN I view the title element 
-THEN I find a concise, descriptive titl
-
-![Screenshot](C:\Users\Zanes\UW Coding Boot Camp\UW-Challenege-1-Refractoring\Screenshot 2022-06-17 171744.jpg)
+THEN I find a concise, descriptive title
