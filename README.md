@@ -2,6 +2,8 @@ Link to Deployed Site https://varthara.github.io/UW-Challenege-1-Refractoring/
 
 This repository contains the solution to a refractoring assignment given to students of the University of Washington 2022 Summer Full Stack Coding Bootcamp. 
 For the assignment, students were asked to meet the folowing acceptance criteria:
+
+
 GIVEN a webpage meets accessibility standards 
 WHEN I view the source code 
 THEN I find semantic HTML elements 
@@ -13,3 +15,6 @@ WHEN I view the heading attributes
 THEN they fall in sequential order 
 WHEN I view the title element 
 THEN I find a concise, descriptive title
+
+
+Div tags were replaced with sematic elementics to increase efficiency and clarity. 
